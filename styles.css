@@ -1,0 +1,10 @@
+header{
+    text-align: center;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+}
+
